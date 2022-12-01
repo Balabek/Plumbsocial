@@ -239,6 +239,36 @@
 
 
 
+/* >>>>>>>>>º_º<<<<<<<<< */
+/* >>>>>>>>>º_º<<<<<<<<< */
+/* >>>>>>>>>º_º<<<<<<<<< */
+
+
+
+
+/* Sign Up (inner page) */
+
+@media screen and (max-width: 1199px){
+    .main_cta_video {height: 520px;}
+}
+
+@media screen and (max-width: 992px){
+    .step_title_holder h2 {font-size: 3rem;}
+    .main_cta_video {height: 470px;}
+}
+
+@media screen and (max-width: 767px){
+    .step_title_holder h2 {font-size: 2.3rem;}
+    .main_cta_video {height: 400px;}
+}
+
+@media screen and (max-width: 555px){
+    .step_title_holder h2 {font-size: 2rem;}
+    .main_cta_video {height: 320px;}
+}
+
+
+
 
 
 

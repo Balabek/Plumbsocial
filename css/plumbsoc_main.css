@@ -795,10 +795,84 @@ ul.footer_links li a:hover {
 
 
 
+/* _-_-_-_ */
+/* ---------------- */
+/* ==================== */
+/* Sign Up (Inner Page) */
+/* ==================== */
+/* ---------------- */
+/* _-_-_-_ */
 
+.signup_inner_area {
+    position: relative;
+    min-height: 1000px;
+    padding-bottom: 95px;
+    height: auto;
+    width: 100%;
+    background: #1A191B;
+}
 
+img.nav_logo_inner {
+    display: inline-block;
+    width: 214px;
+    height: 134px;
+    margin-top: 24px;
+}
 
+.signup_inner_area_outermost {
+    position: relative;
+    padding-top: 250px;
+}
 
+.step_one_holder {
+    padding-top: 75px;
+}
+
+.step_title_holder {
+    margin-bottom: 22px;
+}
+
+.step_title_holder h2 {
+    font-size: 3.7rem;
+    font-weight: 200;
+    text-align: center;
+    color: #ffffff;
+}
+
+.main_cta_video_holder {
+    padding-top: 36px;
+    margin-bottom: 75px;
+}
+
+.main_cta_video {
+    border-radius: 22px;
+}
+
+.main_cta_button_holder {
+    padding-top: 16px;
+}
+
+a.main_cta_btn {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 225px;
+    height: 70px;
+    font-size: 1.1rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid #FFFFFF;
+    transition: 0.4s all ease-in-out;
+}
+
+a.main_cta_btn:hover {
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid #FFFFFF;
+    color: #1A191B;
+}
 
 
 
