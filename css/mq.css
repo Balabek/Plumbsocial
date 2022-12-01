@@ -262,6 +262,16 @@
     .main_cta_video {height: 400px;}
 }
 
+@media screen and (max-width: 710px){
+    .dotcube_deco_inner_signup {left: 70%;}
+}
+
+@media screen and (max-width: 450px){
+    .dotcube_deco_inner_signup {left: 62%; top: 2px;}
+}
+
+
+
 @media screen and (max-width: 555px){
     .step_title_holder h2 {font-size: 2rem;}
     .main_cta_video {height: 320px;}

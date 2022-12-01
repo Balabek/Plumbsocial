@@ -840,11 +840,14 @@ img.nav_logo_inner {
 }
 
 .main_cta_video_holder {
+    position: relative;
     padding-top: 36px;
     margin-bottom: 75px;
 }
 
 .main_cta_video {
+    position: relative;
+    z-index: 5;
     border-radius: 22px;
 }
 
@@ -874,6 +877,18 @@ a.main_cta_btn:hover {
     color: #1A191B;
 }
 
+.dotcube_deco_inner_signup {
+    position: absolute;
+    left: 92%;
+    top: -5px;
+    right: 0;
+    bottom: 0;
+    width: 115px;
+    height: 116px;
+    background: url("../img/dotcube.png") no-repeat;
+    background-size: contain;
+    z-index: 0;
+}
 
 
 
