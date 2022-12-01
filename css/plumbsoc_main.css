@@ -894,5 +894,129 @@ a.main_cta_btn:hover {
 
 
 
+/* _-_-_-_ */
+/* ---------------- */
+/* ==================== */
+/* Apply (Inner Page) */
+/* ==================== */
+/* ---------------- */
+/* _-_-_-_ */
+
+.apply_inner_area {
+    position: relative;
+    min-height: 1000px;
+    padding-bottom: 95px;
+    height: auto;
+    width: 100%;
+    background: #1A191B;
+}
+
+.apply_inner_area_outermost {
+    padding-top: 250px;
+    position: relative;
+}
+
+.application_form_outermost {
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 42px;
+}
+
+.plumbsoc_application_form_holder {
+    padding-top: 55px;
+}
+
+form.plumbsoc_application_form {
+    position: relative;
+    z-index: 5;
+}
+
+.plumbsoc_form_group {
+    margin-bottom: 38px;
+}
+
+label.plumbsoc_label {
+    font-size: 0.94rem;
+    margin-bottom: 2px;
+    color: #dedede;
+    padding-left: 0;
+}
+
+label.plumbsoc_label > span {
+    font-weight: 700;
+    color: #F06197;
+}
+
+input.plumbsoc_input {
+    height: 50px;
+    padding-left: 18px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #666666;
+    background: #f6f6f6;
+    border: none;
+    border-radius: 1px;
+}
+
+input.plumbsoc_input:focus {
+    background: #f6f6f6;
+    box-shadow: none !important;
+}
+
+textarea.plumbsoc_txt {
+    padding-left: 18px;
+    padding-top: 18px;
+    height: 240px;
+    resize: none;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #666666;
+    background: #f6f6f6;
+    border: none;
+    border-radius: 1px;
+}
+
+textarea.plumbsoc_txt:focus {
+    background: #f6f6f6;
+    box-shadow: none !important;
+}
+
+.apply_button_holder {
+    padding-top: 22px;
+}
+
+button.apply_btn {
+    display: inline-block;
+    height: 60px;
+    width: 225px;
+    background: #F06197;
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    border-radius: 1px;
+    transition: 0.4s all ease-in-out;
+}
+
+button.apply_btn:hover {
+    color: #f14e8c;
+    background: #000000;
+    box-shadow: 0 0 26px -16px #F06197;
+
+}
+
+.dotcube_deco_inner_apply {
+    position: absolute;
+    left: -5%;
+    bottom: 125px;
+    right: 0;
+    width: 115px;
+    height: 116px;
+    background: url("../img/dotcube.png") no-repeat;
+    background-size: contain;
+    z-index: 0;
+}
+
+
 
 

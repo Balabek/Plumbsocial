@@ -281,9 +281,35 @@
 
 
 
+/* >>>>>>>>>º_º<<<<<<<<< */
+/* >>>>>>>>>º_º<<<<<<<<< */
+/* >>>>>>>>>º_º<<<<<<<<< */
 
 
 
+
+/* Apply (inner page) */
+
+@media screen and (max-width: 1199px){
+    .application_form_outermost {width: 70%;}
+}
+
+@media screen and (max-width: 992px){
+    .application_form_outermost {width: 90%;}
+}
+
+@media screen and (max-width: 767px){
+    .application_form_outermost {width: 99%;}
+}
+
+@media screen and (max-width: 600px){
+    .dotcube_deco_inner_apply {left: 14%;}
+}
+
+@media screen and (max-width: 575px){
+    form.plumbsoc_application_form {padding-left: 14px; padding-right: 14px;}
+    label.plumbsoc_label {font-size: 0.88rem;}
+}
 
 
 
