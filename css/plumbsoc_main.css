@@ -1020,3 +1020,29 @@ button.apply_btn:hover {
 
 
 
+
+
+/* _-_-_-_ */
+/* ---------------- */
+/* ==================== */
+/* Schedule (Inner Page) */
+/* ==================== */
+/* ---------------- */
+/* _-_-_-_ */
+
+.schedule_inner_area {
+    position: relative;
+    min-height: 1000px;
+    padding-bottom: 95px;
+    height: auto;
+    width: 100%;
+    background: #1A191B;
+}
+
+.schedule_inner_area_outermost {
+    padding-top: 250px;
+    position: relative;
+}
+
+
+
